@@ -3,9 +3,13 @@ REDES NEURAIS E APRENDIZAGEM EM PROFUNDIDADE
 
 Rede de Convolução / Visão Computacional
 Prof. Eduardo Luz / Eduluz@ufop.edu.br
+
 Grupo:
+
 Aline do Espirito Santo Romão
+
 André Luis Paiva Carrara
+
 Deisemara Cristina Mendes Pereira
 Niliken da Silva
 Sandro Eugenio de Miranda
